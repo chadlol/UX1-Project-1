@@ -4,16 +4,16 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "BC099B32-DDE9-4651-9FE1-75672DB63BED",
+    "do_objectID": "453EA536-48B5-4645-B54E-0917C46930C4",
     "green": 1,
     "red": 1
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "C2CAC6D6-B892-439F-8269-64D52A96ABA5",
+  "do_objectID": "87C7CFBB-92C8-4E4C-9F95-9041FBCC5D62",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "122D5312-4D2E-454A-9C9E-B21913C8F498",
+    "do_objectID": "354CF635-B672-4576-940B-08588F8AFED3",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -24,11 +24,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "6F28358A-39D3-4C09-9235-F9107F1BE889",
+    "do_objectID": "AE1D7A64-EA9D-4275-8DEE-11C5F432BC26",
     "height": 667,
     "width": 375,
     "x": 554,
-    "y": -87
+    "y": 680
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -36,10 +36,8 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "4EEE09E8-0898-44E9-9FE7-2EB1A7683B35",
+    "do_objectID": "F0221132-6FCE-4FE8-B30F-8EC55D8A2330",
     "guides": [
-      20,
-      355
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -50,14 +48,14 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "521280A7-CE16-4212-9CAB-8952FD6C5EEF"
+      "id": "B7CB70C8-B9B7-420B-878E-7AC6465FC348"
     }
   ],
-  "name": "Login Screen - Filled",
+  "name": "Registration Screen - Empty Copy",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
@@ -73,7 +71,7 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "8C98917E-4C5D-42E6-A9EE-2C3969EA425E",
+    "do_objectID": "43842F17-F8F3-4F85-9964-95E1D2B8D907",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -82,7 +80,7 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "29653482-DCFE-48DB-9A60-E7454A0CF438",
+    "do_objectID": "699E6A3C-7085-4FCC-85F2-BFDCCC29C5AA",
     "guides": [
     ]
   }

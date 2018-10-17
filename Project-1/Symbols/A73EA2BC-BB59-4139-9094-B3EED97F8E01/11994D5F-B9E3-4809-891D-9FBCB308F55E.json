@@ -17,25 +17,25 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "ArialMT",
-              "size": 48
+              "size": 16
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2
+            "alignment": 0
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 5,
+        "length": 16,
         "location": 0
       }
     ],
-    "string": "Title"
+    "string": "Placeholder text"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A334523F-D180-4777-B685-2CF8F4E621A6",
+  "do_objectID": "11994D5F-B9E3-4809-891D-9FBCB308F55E",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -49,12 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 53,
-    "width": 89,
-    "x": 0,
-    "y": 0
+    "height": 17,
+    "width": 115,
+    "x": 50,
+    "y": 10
   },
-  "glyphBounds": "{{1, 8}, {86, 36}}",
+  "glyphBounds": "{{1, 2}, {114, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Title",
+  "name": "Placeholder text",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -88,12 +88,12 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "ArialMT",
-            "size": 48
+            "size": 16
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2
+          "alignment": 0
         },
         "textStyleVerticalAlignmentKey": 0
       },

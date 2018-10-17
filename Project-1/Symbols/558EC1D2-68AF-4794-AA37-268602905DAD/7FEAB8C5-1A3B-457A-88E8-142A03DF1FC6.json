@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "521280A7-CE16-4212-9CAB-8952FD6C5EEF",
+  "do_objectID": "7FEAB8C5-1A3B-457A-88E8-142A03DF1FC6",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 395,
-    "width": 300,
-    "x": 38,
-    "y": 91
+    "height": 40,
+    "width": 217,
+    "x": 0,
+    "y": 180
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,14 +28,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "organism / login screen - filled",
+  "name": "atom / checkbox text",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "815D2A4C-768E-4259-9728-D2B7EC8CDFD9",
-      "overrideName": "F3DC969A-1F54-4BF5-85E3-B5FEF8B1523C/DBDB9BD2-21A9-443D-A8FE-04F8363750D9/94474337-C7B5-4996-ACC0-673D3BFDBBBE_stringValue",
-      "value": "johndoe@gmail.com"
+      "do_objectID": "18D2453F-29D0-4E41-884F-A3FD6E84CBB3",
+      "overrideName": "11994D5F-B9E3-4809-891D-9FBCB308F55E_stringValue",
+      "value": "Subscribe to Newsletter?"
     }
   ],
   "resizingConstraint": 63,
@@ -50,6 +50,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "BF9D5685-ED2C-44A2-8CB6-85E498CB6C6A",
+  "symbolID": "8C2D2AFE-D14B-4877-BB83-40F7E0FA7ECC",
   "verticalSpacing": 0
 }

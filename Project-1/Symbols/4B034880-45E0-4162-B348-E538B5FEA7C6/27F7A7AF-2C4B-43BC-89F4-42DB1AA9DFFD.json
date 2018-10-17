@@ -1,16 +1,8 @@
 {
-  "_class": "symbolMaster",
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
+  "_class": "symbolInstance",
   "booleanOperation": -1,
-  "changeIdentifier": 5,
   "clippingMaskMode": 0,
-  "do_objectID": "D1D1C1D4-F6DA-459E-8A8A-B8511F352EFC",
+  "do_objectID": "27F7A7AF-2C4B-43BC-89F4-42DB1AA9DFFD",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -25,41 +17,26 @@
     "constrainProportions": false,
     "height": 53,
     "width": 89,
-    "x": 1145,
+    "x": 105,
     "y": 0
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "text",
-      "id": "A334523F-D180-4777-B685-2CF8F4E621A6"
-    }
-  ],
   "name": "atom / h1",
   "nameIsFixed": false,
-  "resizesContent": false,
+  "overrideValues": [
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "endMarkerType": 0,
@@ -68,10 +45,5 @@
     "windingRule": 1
   },
   "symbolID": "DC3DF59F-8146-437D-B3DB-EC5AB624452B",
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  }
+  "verticalSpacing": 0
 }

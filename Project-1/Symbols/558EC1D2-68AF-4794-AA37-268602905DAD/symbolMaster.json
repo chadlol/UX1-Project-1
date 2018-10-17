@@ -1,19 +1,18 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "BC099B32-DDE9-4651-9FE1-75672DB63BED",
     "green": 1,
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 13,
   "clippingMaskMode": 0,
-  "do_objectID": "C2CAC6D6-B892-439F-8269-64D52A96ABA5",
+  "do_objectID": "558EC1D2-68AF-4794-AA37-268602905DAD",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "122D5312-4D2E-454A-9C9E-B21913C8F498",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -24,11 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "6F28358A-39D3-4C09-9235-F9107F1BE889",
-    "height": 667,
-    "width": 375,
-    "x": 554,
-    "y": -87
+    "height": 340,
+    "width": 300,
+    "x": 570,
+    "y": 1734
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -36,13 +34,11 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "4EEE09E8-0898-44E9-9FE7-2EB1A7683B35",
     "guides": [
-      20,
-      355
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -54,18 +50,31 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "521280A7-CE16-4212-9CAB-8952FD6C5EEF"
+      "id": "96ED8AEC-AC2C-4455-9DEA-EB4D5446775A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "71FEDD39-B90F-468B-BBA8-5CD78840DB3B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7FEAB8C5-1A3B-457A-88E8-142A03DF1FC6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2179AADF-6F81-49B1-9EE2-AF95EBDC2C4B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2657C97C-DA57-45BD-8D9E-9AAA436EE096"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0AEB6846-0C2E-4221-A689-3C3777A91463"
     }
   ],
-  "name": "Login Screen - Filled",
-  "nameIsFixed": true,
-  "presetDictionary": {
-    "allowResizedMatching": 1,
-    "height": 667,
-    "name": "iPhone 8",
-    "offersLandscapeVariant": 1,
-    "width": 375
-  },
+  "name": "molecule / registration form",
+  "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -73,16 +82,15 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "8C98917E-4C5D-42E6-A9EE-2C3969EA425E",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "B8841A34-324C-461B-A5BD-7AD9E7CB686B",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "29653482-DCFE-48DB-9A60-E7454A0CF438",
     "guides": [
     ]
   }
