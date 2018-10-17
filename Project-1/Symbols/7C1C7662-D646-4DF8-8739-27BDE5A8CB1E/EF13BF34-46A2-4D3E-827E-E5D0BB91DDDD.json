@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "2313F0C0-B1A3-4C04-9192-8198CA49DF35",
+  "do_objectID": "EF13BF34-46A2-4D3E-827E-E5D0BB91DDDD",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
-    "width": 140,
-    "x": 198,
-    "y": 341
+    "height": 53,
+    "width": 89,
+    "x": 105,
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,17 +28,11 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "atom / button",
+  "name": "atom / h1",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "0AE72E3C-0413-473B-B307-D64C0E494891",
-      "overrideName": "C8BF93C6-A8FC-4F31-B833-E623413FAD8D_stringValue",
-      "value": "REGISTER"
-    }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
@@ -50,6 +44,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "E85EBBA9-8F94-4B45-8A7E-DEF29EC559F4",
+  "symbolID": "DC3DF59F-8146-437D-B3DB-EC5AB624452B",
   "verticalSpacing": 0
 }

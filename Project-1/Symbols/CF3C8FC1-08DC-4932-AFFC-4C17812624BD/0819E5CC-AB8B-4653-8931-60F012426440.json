@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "76E19F33-7C90-4957-B977-38CB9F47E43E",
+  "do_objectID": "0819E5CC-AB8B-4653-8931-60F012426440",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "12AE54BC-236D-48B5-8354-9D09C6C599C6",
+    "do_objectID": "87DCB707-E85C-40D5-94B5-52C3A3AF4659",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "D2C9E94E-46A4-4142-93A3-B285094B3ABF",
+    "do_objectID": "AA2BA8AA-1897-49A2-B238-C10C646A185C",
     "height": 40,
-    "width": 140,
-    "x": 198,
-    "y": 341
+    "width": 300,
+    "x": 0,
+    "y": 60
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,14 +30,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "atom / button",
+  "name": "atom / inputbox",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "0AE72E3C-0413-473B-B307-D64C0E494891",
-      "overrideName": "C8BF93C6-A8FC-4F31-B833-E623413FAD8D_stringValue",
-      "value": "REGISTER"
+      "do_objectID": "99272B6F-3F6A-4019-B2FC-6030CAE26F03",
+      "overrideName": "94474337-C7B5-4996-ACC0-673D3BFDBBBE_stringValue",
+      "value": "••••••••"
     }
   ],
   "resizingConstraint": 63,
@@ -47,12 +47,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "06B44685-835F-438C-A5E7-83DE7332DA08",
+    "do_objectID": "FB6C7035-1EB5-4B8C-8805-974D71C3E8A7",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "E85EBBA9-8F94-4B45-8A7E-DEF29EC559F4",
+  "symbolID": "0655E185-ADAB-4608-B9E7-39FEE0DF7E94",
   "verticalSpacing": 0
 }

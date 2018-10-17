@@ -2,10 +2,9 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D75C334D-523A-4879-B7DF-8A241CAB729D",
+  "do_objectID": "A6939DA6-D891-4A28-95A0-D717A4FEBF53",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "CADFECCA-6617-4237-97B2-D4896D7A253F",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "BE9B4B97-5459-47AA-A7B3-C55EEF58A224",
-    "height": 40,
-    "width": 300,
-    "x": 38,
-    "y": 244
+    "height": 17,
+    "width": 130,
+    "x": 75,
+    "y": 120
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,29 +28,28 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "atom / inputbox",
+  "name": "atom / link",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "8388679C-01DF-4BBA-ADED-344D7D4F6FC6",
-      "overrideName": "94474337-C7B5-4996-ACC0-673D3BFDBBBE_stringValue",
-      "value": "••••••••"
+      "do_objectID": "68826170-6A57-4C2E-B292-C875D24F9315",
+      "overrideName": "25F6381C-268A-45CC-9C1D-65180C0EE7FB_stringValue",
+      "value": "Forgotten Password?"
     }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "E936E6F0-A0C9-434D-B8D0-B68716986888",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "0655E185-ADAB-4608-B9E7-39FEE0DF7E94",
+  "symbolID": "03B1286F-7C81-4414-A5BB-1879ED5FA54D",
   "verticalSpacing": 0
 }

@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A6939DA6-D891-4A28-95A0-D717A4FEBF53",
+  "do_objectID": "EBF47F60-E8B8-4B9D-81F2-5209DA95ED09",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 17,
-    "width": 130,
-    "x": 113,
-    "y": 304
+    "height": 395,
+    "width": 300,
+    "x": 38,
+    "y": 91
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,17 +28,11 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "atom / link",
-  "nameIsFixed": false,
+  "name": "organism / login screen - empty",
+  "nameIsFixed": true,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "68826170-6A57-4C2E-B292-C875D24F9315",
-      "overrideName": "25F6381C-268A-45CC-9C1D-65180C0EE7FB_stringValue",
-      "value": "Forgotten Password?"
-    }
   ],
-  "resizingConstraint": 47,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
@@ -50,6 +44,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "03B1286F-7C81-4414-A5BB-1879ED5FA54D",
+  "symbolID": "E6A73456-ACDA-4F47-BE8F-13FE41D1FB42",
   "verticalSpacing": 0
 }

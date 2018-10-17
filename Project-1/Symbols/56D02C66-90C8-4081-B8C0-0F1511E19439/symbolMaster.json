@@ -8,9 +8,9 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 14,
+  "changeIdentifier": 3,
   "clippingMaskMode": 0,
-  "do_objectID": "3E4CFD32-3DFC-4A8E-9AFF-7A25DF676260",
+  "do_objectID": "56D02C66-90C8-4081-B8C0-0F1511E19439",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,13 +23,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
-    "width": 140,
-    "x": 100,
+    "height": 75,
+    "width": 299,
+    "x": 1334,
     "y": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -49,16 +49,20 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "A7574C3C-6461-4955-AA7D-F50941D729C1"
+      "class": "symbolInstance",
+      "id": "5FAD831C-1370-4D45-981F-630CCF59C623"
     },
     {
-      "class": "text",
-      "id": "C8BF93C6-A8FC-4F31-B833-E623413FAD8D"
+      "class": "symbolInstance",
+      "id": "355F4592-0E95-41AE-A989-504869B6FDF6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "35F27F88-9ED4-4851-B951-5EA1AC22EDC9"
     }
   ],
-  "name": "atom / button enabled",
-  "nameIsFixed": true,
+  "name": "molecule / social media group",
+  "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -71,7 +75,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "E85EBBA9-8F94-4B45-8A7E-DEF29EC559F4",
+  "symbolID": "9B4439D8-4021-40BB-9E1F-1DEB1D516D61",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

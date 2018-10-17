@@ -2,10 +2,9 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "C6BBFC2E-260A-4009-B5A8-FFBFD6010AAC",
+  "do_objectID": "521280A7-CE16-4212-9CAB-8952FD6C5EEF",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "FC8BBA87-0F25-4414-945E-D61091E6C854",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "9B4B42A5-797B-4E31-B521-44D831C4605A",
-    "height": 75,
-    "width": 75,
+    "height": 395,
+    "width": 300,
     "x": 38,
-    "y": 411
+    "y": 91
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,7 +28,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "atom / social media button",
+  "name": "organism / login screen - filled",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -41,12 +39,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "2F8C93E9-53C7-4957-9B26-E9CB5625B7CA",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "6301ADD0-52C3-4807-AFB8-2CD5542EE3CD",
+  "symbolID": "BF9D5685-ED2C-44A2-8CB6-85E498CB6C6A",
   "verticalSpacing": 0
 }

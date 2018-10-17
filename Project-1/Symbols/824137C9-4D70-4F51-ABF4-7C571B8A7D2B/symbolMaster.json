@@ -8,9 +8,9 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 14,
+  "changeIdentifier": 3,
   "clippingMaskMode": 0,
-  "do_objectID": "3E4CFD32-3DFC-4A8E-9AFF-7A25DF676260",
+  "do_objectID": "824137C9-4D70-4F51-ABF4-7C571B8A7D2B",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,13 +23,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
-    "width": 140,
-    "x": 100,
-    "y": 0
+    "height": 395,
+    "width": 300,
+    "x": 570,
+    "y": 1239
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -49,16 +49,20 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "A7574C3C-6461-4955-AA7D-F50941D729C1"
+      "class": "symbolInstance",
+      "id": "15B2A531-2EDD-4938-9F32-5E126CD213FA"
     },
     {
-      "class": "text",
-      "id": "C8BF93C6-A8FC-4F31-B833-E623413FAD8D"
+      "class": "symbolInstance",
+      "id": "96B2C858-547E-43A8-ADE6-93A171164D08"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F3DC969A-1F54-4BF5-85E3-B5FEF8B1523C"
     }
   ],
-  "name": "atom / button enabled",
-  "nameIsFixed": true,
+  "name": "organism / login screen - filled",
+  "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -71,7 +75,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "E85EBBA9-8F94-4B45-8A7E-DEF29EC559F4",
+  "symbolID": "BF9D5685-ED2C-44A2-8CB6-85E498CB6C6A",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

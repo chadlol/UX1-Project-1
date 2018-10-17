@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "EC6F1143-A016-4D03-AD2C-766521C0485C",
+  "do_objectID": "DBDB9BD2-21A9-443D-A8FE-04F8363750D9",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "9D12E326-48EA-4F38-9631-73145C51A372",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "E31A9154-45DF-4743-8680-C65672C306E1",
     "height": 40,
     "width": 300,
-    "x": 38,
-    "y": 244
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -33,9 +35,9 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "E04D111E-BF66-442A-9485-89081B47070A",
-      "overrideName": "A03492C3-B1DD-4ADE-BD43-3BA51A75E3C9_stringValue",
-      "value": "Password"
+      "do_objectID": "95A36489-6CF0-4F9D-876C-D8968E57A084",
+      "overrideName": "94474337-C7B5-4996-ACC0-673D3BFDBBBE_stringValue",
+      "value": "Email"
     }
   ],
   "resizingConstraint": 63,
@@ -45,11 +47,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "6F324D61-9131-4A34-A473-7047527C34E7",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "539FA485-5B74-4012-8A8B-BF005AAC82B1",
+  "symbolID": "0655E185-ADAB-4608-B9E7-39FEE0DF7E94",
   "verticalSpacing": 0
 }

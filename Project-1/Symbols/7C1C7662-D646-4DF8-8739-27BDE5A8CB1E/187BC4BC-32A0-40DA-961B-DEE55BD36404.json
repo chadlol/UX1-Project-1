@@ -2,10 +2,9 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "69C78FFE-0AF7-42A6-8530-2E76C8287B0B",
+  "do_objectID": "187BC4BC-32A0-40DA-961B-DEE55BD36404",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "3A12CA4E-5951-4252-A24C-94A982E56049",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "D7A792D2-EA12-467A-8526-0B09276C9EA5",
-    "height": 40,
+    "height": 197,
     "width": 300,
-    "x": 38,
-    "y": 184
+    "x": 0,
+    "y": 93
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,15 +28,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "atom / inputbox",
+  "name": "molecule / login form",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "DBFEB3B7-1D38-40A3-94B1-27DDF02AC92E",
-      "overrideName": "94474337-C7B5-4996-ACC0-673D3BFDBBBE_stringValue",
-      "value": "chadohl@gmail.com"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -47,12 +39,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "63093D05-F3D6-4CAF-8AFA-115FC44E0146",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "0655E185-ADAB-4608-B9E7-39FEE0DF7E94",
+  "symbolID": "49B1A730-4924-491E-A8D9-E71EA4CE5F92",
   "verticalSpacing": 0
 }

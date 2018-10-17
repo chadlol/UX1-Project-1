@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A76D0028-4208-43D4-A833-45E67AC26A2E",
+  "do_objectID": "355F4592-0E95-41AE-A989-504869B6FDF6",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "894B7C48-2AE0-4114-A27C-B554E6EB99CB",
+    "do_objectID": "178FAA06-1EA6-4F7F-AE1F-B7584C9950E7",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "A66565FE-88F5-426F-B0EE-192BF3F40CE3",
+    "do_objectID": "A6BB0E6E-E3EE-4346-9A48-58323DE20EB0",
     "height": 75,
     "width": 75,
-    "x": 262,
-    "y": 411
+    "x": 112,
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,14 +30,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "atom / social media button copy 2",
+  "name": "atom / social media button copy",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "B6EE2535-E246-4B26-BD64-D55003BBB8C4",
+      "do_objectID": "AB507433-76BB-4F9F-BEF4-B98A156B207F",
       "overrideName": "62E5D676-BC26-418E-8297-D026ED4F5CAD_stringValue",
-      "value": "T"
+      "value": "G"
     }
   ],
   "resizingConstraint": 63,
@@ -47,7 +47,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "44C3DC81-051C-4709-BBD5-656224D761D3",
+    "do_objectID": "FEE166AF-8825-42C5-820E-8DBE32DE897D",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

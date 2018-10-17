@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "77043022-08F3-4DE2-92E1-B319FF0C596F",
+  "do_objectID": "FA43142B-C198-42FD-9235-8CB5194562E1",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "721BF81D-8D5C-443E-BACD-3F6F0B681061",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "5CDB4555-FEA7-41BF-A71A-220D95C5DF82",
     "height": 40,
     "width": 140,
-    "x": 38,
-    "y": 341
+    "x": 0,
+    "y": 157
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -33,8 +35,8 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "DA2FB215-3C40-462F-BC4D-5662D81ACE9B",
-      "overrideName": "A63E305D-45E2-4A91-82F0-75A1019FC2AB_stringValue",
+      "do_objectID": "E0780711-2982-469F-ADC4-76DB9CE26971",
+      "overrideName": "C8BF93C6-A8FC-4F31-B833-E623413FAD8D_stringValue",
       "value": "LOGIN"
     }
   ],
@@ -45,11 +47,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "41DCF871-5E14-469A-A0A0-5813C1F0034B",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "33151914-8A9D-4CF2-BE65-D973E5A3B33F",
+  "symbolID": "E85EBBA9-8F94-4B45-8A7E-DEF29EC559F4",
   "verticalSpacing": 0
 }

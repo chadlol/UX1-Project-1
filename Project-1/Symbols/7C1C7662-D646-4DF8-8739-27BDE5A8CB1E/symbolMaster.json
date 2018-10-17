@@ -8,9 +8,9 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 14,
+  "changeIdentifier": 9,
   "clippingMaskMode": 0,
-  "do_objectID": "3E4CFD32-3DFC-4A8E-9AFF-7A25DF676260",
+  "do_objectID": "7C1C7662-D646-4DF8-8739-27BDE5A8CB1E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
-    "width": 140,
-    "x": 100,
-    "y": 0
+    "height": 395,
+    "width": 300,
+    "x": 570,
+    "y": 744
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -49,15 +49,19 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "A7574C3C-6461-4955-AA7D-F50941D729C1"
+      "class": "symbolInstance",
+      "id": "4E286075-90A7-4818-9F65-741C8B377B07"
     },
     {
-      "class": "text",
-      "id": "C8BF93C6-A8FC-4F31-B833-E623413FAD8D"
+      "class": "symbolInstance",
+      "id": "187BC4BC-32A0-40DA-961B-DEE55BD36404"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EF13BF34-46A2-4D3E-827E-E5D0BB91DDDD"
     }
   ],
-  "name": "atom / button enabled",
+  "name": "organism / login screen - empty",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -71,7 +75,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "E85EBBA9-8F94-4B45-8A7E-DEF29EC559F4",
+  "symbolID": "E6A73456-ACDA-4F47-BE8F-13FE41D1FB42",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

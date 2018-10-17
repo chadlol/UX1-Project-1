@@ -54,42 +54,10 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "15B2A531-2EDD-4938-9F32-5E126CD213FA"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "D75C334D-523A-4879-B7DF-8A241CAB729D"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "7A1AF81C-5E04-4458-B27B-909CF413CBF4"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "76E19F33-7C90-4957-B977-38CB9F47E43E"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "1C0C6448-2BE1-4EE3-8909-F86DE96769A0"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "C6BBFC2E-260A-4009-B5A8-FFBFD6010AAC"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "FC359BFF-473C-4AD1-8B15-E7D777251974"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "A76D0028-4208-43D4-A833-45E67AC26A2E"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "69C78FFE-0AF7-42A6-8530-2E76C8287B0B"
+      "id": "521280A7-CE16-4212-9CAB-8952FD6C5EEF"
     }
   ],
-  "name": "Login Screen Copy",
+  "name": "Login Screen - Filled",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

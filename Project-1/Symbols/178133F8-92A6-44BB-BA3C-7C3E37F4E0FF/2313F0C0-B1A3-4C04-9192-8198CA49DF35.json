@@ -2,10 +2,9 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "7A1AF81C-5E04-4458-B27B-909CF413CBF4",
+  "do_objectID": "2313F0C0-B1A3-4C04-9192-8198CA49DF35",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "9A69CE38-4DC1-4554-9817-EA1A11ED9216",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "1F2EAAD1-B2D3-4CD7-8E2A-2CA29F014E4E",
     "height": 40,
     "width": 140,
-    "x": 38,
-    "y": 341
+    "x": 160,
+    "y": 157
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -35,9 +33,9 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "9CD9E308-8F84-493C-91D9-F0BDE11AF656",
+      "do_objectID": "0AE72E3C-0413-473B-B307-D64C0E494891",
       "overrideName": "C8BF93C6-A8FC-4F31-B833-E623413FAD8D_stringValue",
-      "value": "LOGIN"
+      "value": "REGISTER"
     }
   ],
   "resizingConstraint": 63,
@@ -47,7 +45,6 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "3611A4B4-1830-43E1-B8CA-353766F884A0",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

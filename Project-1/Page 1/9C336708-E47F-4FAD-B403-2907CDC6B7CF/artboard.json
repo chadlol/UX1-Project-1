@@ -48,42 +48,10 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "EF13BF34-46A2-4D3E-827E-E5D0BB91DDDD"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "EC6F1143-A016-4D03-AD2C-766521C0485C"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "77043022-08F3-4DE2-92E1-B319FF0C596F"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "2313F0C0-B1A3-4C04-9192-8198CA49DF35"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "A6939DA6-D891-4A28-95A0-D717A4FEBF53"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "5FAD831C-1370-4D45-981F-630CCF59C623"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "355F4592-0E95-41AE-A989-504869B6FDF6"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "35F27F88-9ED4-4851-B951-5EA1AC22EDC9"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "A6D886A0-8551-4279-893D-6EBF482B794B"
+      "id": "EBF47F60-E8B8-4B9D-81F2-5209DA95ED09"
     }
   ],
-  "name": "Login Screen",
+  "name": "Login Screen - Empty",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
