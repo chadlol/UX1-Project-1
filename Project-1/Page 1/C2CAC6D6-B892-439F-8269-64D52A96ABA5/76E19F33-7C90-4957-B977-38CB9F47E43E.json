@@ -1,10 +1,11 @@
 {
-  "_class": "page",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "097223CE-7962-4BA7-B072-89A8E3914A05",
+  "do_objectID": "76E19F33-7C90-4957-B977-38CB9F47E43E",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "12AE54BC-236D-48B5-8354-9D09C6C599C6",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,57 +16,43 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "do_objectID": "D2C9E94E-46A4-4142-93A3-B285094B3ABF",
+    "height": 40,
+    "width": 140,
+    "x": 198,
+    "y": 341
   },
-  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 129,
-    "guides": [
-      20,
-      355,
-      445,
-      780
-    ]
-  },
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
+  "name": "atom / button",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "artboard",
-      "id": "9C336708-E47F-4FAD-B403-2907CDC6B7CF"
-    },
-    {
-      "class": "artboard",
-      "id": "C2CAC6D6-B892-439F-8269-64D52A96ABA5"
+      "_class": "overrideValue",
+      "do_objectID": "0AE72E3C-0413-473B-B307-D64C0E494891",
+      "overrideName": "C8BF93C6-A8FC-4F31-B833-E623413FAD8D_stringValue",
+      "value": "REGISTER"
     }
   ],
-  "name": "Page 1",
-  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "06B44685-835F-438C-A5E7-83DE7332DA08",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  }
+  "symbolID": "E85EBBA9-8F94-4B45-8A7E-DEF29EC559F4",
+  "verticalSpacing": 0
 }

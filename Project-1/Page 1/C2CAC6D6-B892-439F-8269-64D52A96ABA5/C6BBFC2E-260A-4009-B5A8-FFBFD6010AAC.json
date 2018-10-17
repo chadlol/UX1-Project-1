@@ -1,10 +1,11 @@
 {
-  "_class": "page",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "097223CE-7962-4BA7-B072-89A8E3914A05",
+  "do_objectID": "C6BBFC2E-260A-4009-B5A8-FFBFD6010AAC",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "FC8BBA87-0F25-4414-945E-D61091E6C854",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,57 +16,37 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "do_objectID": "9B4B42A5-797B-4E31-B521-44D831C4605A",
+    "height": 75,
+    "width": 75,
+    "x": 38,
+    "y": 411
   },
-  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 129,
-    "guides": [
-      20,
-      355,
-      445,
-      780
-    ]
-  },
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "artboard",
-      "id": "9C336708-E47F-4FAD-B403-2907CDC6B7CF"
-    },
-    {
-      "class": "artboard",
-      "id": "C2CAC6D6-B892-439F-8269-64D52A96ABA5"
-    }
-  ],
-  "name": "Page 1",
+  "name": "atom / social media button",
   "nameIsFixed": false,
+  "overrideValues": [
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "2F8C93E9-53C7-4957-9B26-E9CB5625B7CA",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  }
+  "symbolID": "6301ADD0-52C3-4807-AFB8-2CD5542EE3CD",
+  "verticalSpacing": 0
 }

@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "77043022-08F3-4DE2-92E1-B319FF0C596F",
+  "do_objectID": "1C0C6448-2BE1-4EE3-8909-F86DE96769A0",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "F1D9F825-096D-48BB-B54B-0FC5F2A86F41",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
-    "width": 140,
-    "x": 38,
-    "y": 341
+    "do_objectID": "FF54BFDB-9DDC-4206-8B65-75E9D5F46E17",
+    "height": 17,
+    "width": 130,
+    "x": 113,
+    "y": 304
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,28 +30,29 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "atom / button",
+  "name": "atom / link",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "DA2FB215-3C40-462F-BC4D-5662D81ACE9B",
-      "overrideName": "A63E305D-45E2-4A91-82F0-75A1019FC2AB_stringValue",
-      "value": "LOGIN"
+      "do_objectID": "68826170-6A57-4C2E-B292-C875D24F9315",
+      "overrideName": "25F6381C-268A-45CC-9C1D-65180C0EE7FB_stringValue",
+      "value": "Forgotten Password?"
     }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "FB7C31E0-BD2D-4BDD-A255-B80636F3D037",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "33151914-8A9D-4CF2-BE65-D973E5A3B33F",
+  "symbolID": "03B1286F-7C81-4414-A5BB-1879ED5FA54D",
   "verticalSpacing": 0
 }
