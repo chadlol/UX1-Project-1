@@ -23,18 +23,20 @@
           "paragraphStyle": {
             "_class": "paragraphStyle"
           },
-          "textStyleVerticalAlignmentKey": 0
+          "strikethroughStyle": 0,
+          "textStyleVerticalAlignmentKey": 0,
+          "underlineStyle": 1
         },
-        "length": 8,
+        "length": 4,
         "location": 0
       }
     ],
-    "string": "Register"
+    "string": "Link"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "AC5F6304-4FA1-48A0-9B7E-4064AA521A4F",
+  "do_objectID": "25F6381C-268A-45CC-9C1D-65180C0EE7FB",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -49,11 +51,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 17,
-    "width": 60,
-    "x": 240,
-    "y": 351
+    "width": 30,
+    "x": 0,
+    "y": 0
   },
-  "glyphBounds": "{{1, 2}, {59, 16}}",
+  "glyphBounds": "{{1, 2}, {29, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -62,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Register",
+  "name": "Link",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -93,7 +95,9 @@
         "paragraphStyle": {
           "_class": "paragraphStyle"
         },
-        "textStyleVerticalAlignmentKey": 0
+        "strikethroughStyle": 0,
+        "textStyleVerticalAlignmentKey": 0,
+        "underlineStyle": 1
       },
       "verticalAlignment": 0
     },

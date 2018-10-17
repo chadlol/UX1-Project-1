@@ -9,36 +9,36 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "ArialMT",
-              "size": 48
+              "size": 16
             }
           },
           "paragraphStyle": {
-            "_class": "paragraphStyle"
+            "_class": "paragraphStyle",
+            "alignment": 2
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 1,
+        "length": 8,
         "location": 0
       }
     ],
-    "string": "G"
+    "string": "BTN_text"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "70521005-F384-4410-8E8E-0F024677F7B8",
+  "do_objectID": "C8BF93C6-A8FC-4F31-B833-E623413FAD8D",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "8D85CB62-759B-4666-A757-3061B36EB393",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -49,13 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "9685D91C-D5A1-4432-8DFA-5FD40D7E062C",
-    "height": 53,
-    "width": 38,
-    "x": 169,
-    "y": 421
+    "height": 17,
+    "width": 67,
+    "x": 36.5,
+    "y": 10
   },
-  "glyphBounds": "{{2, 8}, {33, 36}}",
+  "glyphBounds": "{{1, 2}, {66, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "G",
+  "name": "BTN_text",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -72,30 +71,29 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "F5E3CA10-ECBE-4C29-BD66-52BB584E431D",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "EAC272DB-9660-4B91-899D-4024F24CE3B3",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "ArialMT",
-            "size": 48
+            "size": 16
           }
         },
         "paragraphStyle": {
-          "_class": "paragraphStyle"
+          "_class": "paragraphStyle",
+          "alignment": 2
         },
         "textStyleVerticalAlignmentKey": 0
       },
