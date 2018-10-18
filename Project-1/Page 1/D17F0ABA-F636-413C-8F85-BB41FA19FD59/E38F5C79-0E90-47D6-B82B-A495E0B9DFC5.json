@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "521280A7-CE16-4212-9CAB-8952FD6C5EEF",
+  "do_objectID": "E38F5C79-0E90-47D6-B82B-A495E0B9DFC5",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 395,
+    "height": 277,
     "width": 300,
     "x": 38,
     "y": 100
@@ -28,15 +28,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "organism / login screen - filled",
+  "name": "organism / forgotten password screen",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "815D2A4C-768E-4259-9728-D2B7EC8CDFD9",
-      "overrideName": "F3DC969A-1F54-4BF5-85E3-B5FEF8B1523C/DBDB9BD2-21A9-443D-A8FE-04F8363750D9/94474337-C7B5-4996-ACC0-673D3BFDBBBE_stringValue",
-      "value": "johndoe@gmail.com"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -50,6 +44,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "BF9D5685-ED2C-44A2-8CB6-85E498CB6C6A",
+  "symbolID": "C6D2A66F-95D2-4B9E-A72A-F4BF09EE09AC",
   "verticalSpacing": 0
 }

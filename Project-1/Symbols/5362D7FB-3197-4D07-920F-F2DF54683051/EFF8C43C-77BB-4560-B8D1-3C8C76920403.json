@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "521280A7-CE16-4212-9CAB-8952FD6C5EEF",
+  "do_objectID": "EFF8C43C-77BB-4560-B8D1-3C8C76920403",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "03CBDB98-FC11-4BA2-AA0B-FC7E339F935C",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 395,
+    "do_objectID": "ACB07F1B-DE93-41B0-88DA-8FD71A6B2F5C",
+    "height": 64,
     "width": 300,
-    "x": 38,
-    "y": 100
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,14 +30,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "organism / login screen - filled",
+  "name": "atom / messagebox",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "815D2A4C-768E-4259-9728-D2B7EC8CDFD9",
-      "overrideName": "F3DC969A-1F54-4BF5-85E3-B5FEF8B1523C/DBDB9BD2-21A9-443D-A8FE-04F8363750D9/94474337-C7B5-4996-ACC0-673D3BFDBBBE_stringValue",
-      "value": "johndoe@gmail.com"
+      "do_objectID": "C63F79D7-783F-4475-8452-B19580835173",
+      "overrideName": "7AF6E977-920D-4CD1-A383-BA6A1C659E7F_stringValue",
+      "value": "Check your email for instructions to reset your password"
     }
   ],
   "resizingConstraint": 63,
@@ -45,11 +47,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "7DB7B1C2-8E27-4E7D-8DB8-546022A8112B",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "BF9D5685-ED2C-44A2-8CB6-85E498CB6C6A",
+  "symbolID": "E998945E-61CE-40CE-BE99-96908D659ECD",
   "verticalSpacing": 0
 }

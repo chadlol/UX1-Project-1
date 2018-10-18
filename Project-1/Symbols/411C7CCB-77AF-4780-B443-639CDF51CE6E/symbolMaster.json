@@ -4,15 +4,17 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
+    "do_objectID": "FC57BDF1-B5B6-4CDF-AC7A-12254FECD363",
     "green": 1,
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 111,
+  "changeIdentifier": 867,
   "clippingMaskMode": 0,
-  "do_objectID": "4B034880-45E0-4162-B348-E538B5FEA7C6",
+  "do_objectID": "411C7CCB-77AF-4780-B443-639CDF51CE6E",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "EE2F99FA-BD59-49BA-8FB0-4CB0CDBBCA05",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -23,10 +25,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 433,
+    "do_objectID": "93BE2F7E-5B1E-48E3-A52D-4D6CCFF26C65",
+    "height": 184,
     "width": 300,
-    "x": 570,
-    "y": 2174
+    "x": 970,
+    "y": 1734
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -34,6 +37,7 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "ECFD1CDA-82DC-4C0A-BC7D-5FCE1D4492E2",
     "guides": [
     ]
   },
@@ -50,15 +54,19 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "4600F096-4255-4B3E-A1EC-536D82C6A21F"
+      "id": "20D39D1B-F9F0-4276-8BF9-F213D67D2509"
     },
     {
       "class": "symbolInstance",
-      "id": "27F7A7AF-2C4B-43BC-89F4-42DB1AA9DFFD"
+      "id": "7A35BDD0-46D8-4765-84AE-DD9FDAACD233"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EC986BBA-707E-4A83-A475-3A06C0648ACC"
     }
   ],
-  "name": "organism / registration screen - empty",
-  "nameIsFixed": false,
+  "name": "molecule / forgotten password form",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -66,15 +74,17 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "do_objectID": "578FBE15-0C00-4426-92FA-106D72C7FDD9",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "28E70628-0254-466C-9BEF-70D64B859903",
+  "symbolID": "F3ADFE41-9558-4619-9DB7-03CABD3C6BF9",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "358BE434-320B-4F49-BDDA-300E2AC1D381",
     "guides": [
     ]
   }

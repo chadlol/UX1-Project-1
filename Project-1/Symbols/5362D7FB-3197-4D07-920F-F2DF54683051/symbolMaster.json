@@ -4,15 +4,17 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
+    "do_objectID": "2928C842-0760-45C0-BA45-937BC9B99C62",
     "green": 1,
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 111,
+  "changeIdentifier": 1916,
   "clippingMaskMode": 0,
-  "do_objectID": "4B034880-45E0-4162-B348-E538B5FEA7C6",
+  "do_objectID": "5362D7FB-3197-4D07-920F-F2DF54683051",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "2543E3F3-D0CC-4E1E-B5E8-D9CB884C361A",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -23,17 +25,19 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 433,
+    "do_objectID": "A235D58F-9F50-44E9-B503-4813815B92D9",
+    "height": 124,
     "width": 300,
-    "x": 570,
-    "y": 2174
+    "x": 1320,
+    "y": 1734
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "5C98E0AA-DF9D-4F31-BED4-A34A6C467BD3",
     "guides": [
     ]
   },
@@ -50,31 +54,33 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "4600F096-4255-4B3E-A1EC-536D82C6A21F"
+      "id": "EFF8C43C-77BB-4560-B8D1-3C8C76920403"
     },
     {
       "class": "symbolInstance",
-      "id": "27F7A7AF-2C4B-43BC-89F4-42DB1AA9DFFD"
+      "id": "11026905-E18A-4B28-9C62-77DA1D5B03FB"
     }
   ],
-  "name": "organism / registration screen - empty",
-  "nameIsFixed": false,
-  "resizesContent": false,
+  "name": "molecule / forgotten password success",
+  "nameIsFixed": true,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "do_objectID": "0A80FB0E-0C1F-4EBA-BF8B-DEE75ED5E79C",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "28E70628-0254-466C-9BEF-70D64B859903",
+  "symbolID": "73C66E81-B749-432A-9710-DCB7699C4E24",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "47583A76-1A34-4D86-8247-A895A1F54939",
     "guides": [
     ]
   }

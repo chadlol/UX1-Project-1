@@ -8,9 +8,9 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 111,
+  "changeIdentifier": 50,
   "clippingMaskMode": 0,
-  "do_objectID": "4B034880-45E0-4162-B348-E538B5FEA7C6",
+  "do_objectID": "E68F2F0C-35C5-4DC0-9C6E-D97494FF1DDE",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 433,
+    "height": 64,
     "width": 300,
     "x": 570,
-    "y": 2174
+    "y": 2707
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -46,20 +46,20 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "4600F096-4255-4B3E-A1EC-536D82C6A21F"
+      "class": "rectangle",
+      "id": "FC4AE8F3-9B8A-47A4-856F-2E1D11A75E75"
     },
     {
-      "class": "symbolInstance",
-      "id": "27F7A7AF-2C4B-43BC-89F4-42DB1AA9DFFD"
+      "class": "text",
+      "id": "7AF6E977-920D-4CD1-A383-BA6A1C659E7F"
     }
   ],
-  "name": "organism / registration screen - empty",
+  "name": "atom / messagebox",
   "nameIsFixed": false,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -71,7 +71,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "28E70628-0254-466C-9BEF-70D64B859903",
+  "symbolID": "E998945E-61CE-40CE-BE99-96908D659ECD",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

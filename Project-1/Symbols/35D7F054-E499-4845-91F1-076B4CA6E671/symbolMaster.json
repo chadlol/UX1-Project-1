@@ -4,15 +4,17 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
+    "do_objectID": "8D1B169E-7F99-461E-BA56-234ACAA5FAA7",
     "green": 1,
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 111,
+  "changeIdentifier": 1152,
   "clippingMaskMode": 0,
-  "do_objectID": "4B034880-45E0-4162-B348-E538B5FEA7C6",
+  "do_objectID": "35D7F054-E499-4845-91F1-076B4CA6E671",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "903DFC82-D331-4245-8835-20AF6198CAEB",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -23,9 +25,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 433,
+    "do_objectID": "9404973E-DA47-4890-9860-4ACEAA397383",
+    "height": 277,
     "width": 300,
-    "x": 570,
+    "x": 969,
     "y": 2174
   },
   "hasBackgroundColor": false,
@@ -34,6 +37,7 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "3715336D-D003-4B0E-8BF1-4849C85DB806",
     "guides": [
     ]
   },
@@ -50,15 +54,15 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "4600F096-4255-4B3E-A1EC-536D82C6A21F"
+      "id": "8BF5AE40-CC9A-45E0-BFA7-E351A92ACC65"
     },
     {
       "class": "symbolInstance",
-      "id": "27F7A7AF-2C4B-43BC-89F4-42DB1AA9DFFD"
+      "id": "85FE2961-92C3-4125-AD78-A287B88240E7"
     }
   ],
-  "name": "organism / registration screen - empty",
-  "nameIsFixed": false,
+  "name": "organism / forgotten password screen",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -66,15 +70,17 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "do_objectID": "8703875A-04D4-4EC7-8D34-918422F20DB3",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "28E70628-0254-466C-9BEF-70D64B859903",
+  "symbolID": "C6D2A66F-95D2-4B9E-A72A-F4BF09EE09AC",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "4C37822A-F56F-44F8-8C02-2B758BE711A8",
     "guides": [
     ]
   }

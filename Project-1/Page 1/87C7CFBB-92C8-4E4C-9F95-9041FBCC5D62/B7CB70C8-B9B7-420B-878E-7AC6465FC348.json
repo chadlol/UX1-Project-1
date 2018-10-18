@@ -20,7 +20,7 @@
     "height": 433,
     "width": 300,
     "x": 38,
-    "y": 91
+    "y": 100
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -59,12 +59,6 @@
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "A08E8B5A-103F-4EFD-A75A-408D012192EA",
-      "overrideName": "4600F096-4255-4B3E-A1EC-536D82C6A21F/2179AADF-6F81-49B1-9EE2-AF95EBDC2C4B/A03492C3-B1DD-4ADE-BD43-3BA51A75E3C9_stringValue",
-      "value": "••••••••"
-    },
-    {
-      "_class": "overrideValue",
       "do_objectID": "21BE68EB-012D-41C8-A4E5-3ADD0A8D1178",
       "overrideName": "4600F096-4255-4B3E-A1EC-536D82C6A21F/7FEAB8C5-1A3B-457A-88E8-142A03DF1FC6/2F60F021-B111-43D9-9D10-D96EACB9E723_symbolID",
       "value": "BCFE018B-60ED-444B-BC72-1DA48B4140B6"
@@ -86,6 +80,18 @@
       "do_objectID": "109A4B1A-6BD7-4A71-B3EE-945C57433C7A",
       "overrideName": "4600F096-4255-4B3E-A1EC-536D82C6A21F/96ED8AEC-AC2C-4455-9DEA-EB4D5446775A/C8BF93C6-A8FC-4F31-B833-E623413FAD8D_stringValue",
       "value": "Register"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1DFF1190-5460-4290-B55B-F8D1F247C44E",
+      "overrideName": "4600F096-4255-4B3E-A1EC-536D82C6A21F/2179AADF-6F81-49B1-9EE2-AF95EBDC2C4B_symbolID",
+      "value": "0655E185-ADAB-4608-B9E7-39FEE0DF7E94"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B1D91B31-BDCA-4D0E-AEA8-87F05E386A29",
+      "overrideName": "4600F096-4255-4B3E-A1EC-536D82C6A21F/2179AADF-6F81-49B1-9EE2-AF95EBDC2C4B/94474337-C7B5-4996-ACC0-673D3BFDBBBE_stringValue",
+      "value": "••••••••"
     }
   ],
   "resizingConstraint": 63,
