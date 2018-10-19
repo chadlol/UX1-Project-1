@@ -17,7 +17,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "ACB07F1B-DE93-41B0-88DA-8FD71A6B2F5C",
-    "height": 64,
+    "height": 100,
     "width": 300,
     "x": 0,
     "y": 0
@@ -37,7 +37,7 @@
       "_class": "overrideValue",
       "do_objectID": "C63F79D7-783F-4475-8452-B19580835173",
       "overrideName": "7AF6E977-920D-4CD1-A383-BA6A1C659E7F_stringValue",
-      "value": "Check your email for instructions to reset your password"
+      "value": "Email sent. Check your email for instructions to reset your password."
     }
   ],
   "resizingConstraint": 63,
