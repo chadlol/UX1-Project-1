@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "8BF5AE40-CC9A-45E0-BFA7-E351A92ACC65",
+  "do_objectID": "D9F16485-00A5-415D-AA41-DB9B38376947",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "0619D70B-E91F-45F9-A953-F70349009C39",
+    "do_objectID": "D78F3D79-49AF-4EDF-92C8-D5B146A6E63E",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "893054D7-BBE7-4FF4-8DB7-EC10655D65DD",
-    "height": 81,
-    "width": 141,
-    "x": 80,
-    "y": 0
+    "do_objectID": "BF9A9A02-DE73-4C39-82BC-6394C41261F7",
+    "height": 40,
+    "width": 40,
+    "x": 10,
+    "y": 25
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,7 +30,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "atom / h1",
+  "name": "atom / checkbox - back copy",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -41,12 +41,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "22EC9310-5CB8-42A5-A0CC-F5D6C375FBBB",
+    "do_objectID": "1375AD63-B342-4668-8185-1A01A08FB2AB",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "DC3DF59F-8146-437D-B3DB-EC5AB624452B",
+  "symbolID": "EB3062FC-FDAB-4F9B-80C3-6BE15F134090",
   "verticalSpacing": 0
 }

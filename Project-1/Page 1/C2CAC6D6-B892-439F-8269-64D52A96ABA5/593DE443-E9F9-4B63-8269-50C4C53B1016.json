@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "8BF5AE40-CC9A-45E0-BFA7-E351A92ACC65",
+  "do_objectID": "593DE443-E9F9-4B63-8269-50C4C53B1016",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "0619D70B-E91F-45F9-A953-F70349009C39",
+    "do_objectID": "0B8147BB-3270-4572-BA3B-1790CA5A8FF3",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "893054D7-BBE7-4FF4-8DB7-EC10655D65DD",
-    "height": 81,
-    "width": 141,
-    "x": 80,
-    "y": 0
+    "do_objectID": "59BE9DC5-26E7-40F4-A1D2-2350E3A5A504",
+    "height": 17,
+    "width": 130,
+    "x": 123,
+    "y": 635
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,9 +30,15 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "atom / h1",
+  "name": "atom / link copy",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0F296819-17E3-4920-97E5-FD63CC3D438F",
+      "overrideName": "806730F7-8273-400C-881E-529D8F0F5505_stringValue",
+      "value": "Forgotten Password?"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -41,12 +47,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "22EC9310-5CB8-42A5-A0CC-F5D6C375FBBB",
+    "do_objectID": "8D308259-273C-4562-BE69-C5FF294C8EFE",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "DC3DF59F-8146-437D-B3DB-EC5AB624452B",
+  "symbolID": "51D57998-1BDE-4913-AD55-8C91BB450847",
   "verticalSpacing": 0
 }

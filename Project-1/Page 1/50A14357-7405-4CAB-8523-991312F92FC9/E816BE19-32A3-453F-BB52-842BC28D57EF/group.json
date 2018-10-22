@@ -1,11 +1,11 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "8BF5AE40-CC9A-45E0-BFA7-E351A92ACC65",
+  "do_objectID": "E816BE19-32A3-453F-BB52-842BC28D57EF",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "0619D70B-E91F-45F9-A953-F70349009C39",
+    "do_objectID": "D688DF1B-F702-470E-B24A-15EADAA3C2FA",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,37 +16,42 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "893054D7-BBE7-4FF4-8DB7-EC10655D65DD",
-    "height": 81,
-    "width": 141,
-    "x": 80,
+    "do_objectID": "9872705E-D3A6-4E4C-8A46-44A7BF700281",
+    "height": 667,
+    "width": 375,
+    "x": 0,
     "y": 0
   },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "atom / h1",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "49B971D9-E455-4CF3-8C6C-0A0DACF6441D"
+    },
+    {
+      "class": "bitmap",
+      "id": "846321E2-69D8-45E8-A414-E862A00B9BDE"
+    }
   ],
+  "name": "photo-1521062589252-f84a0c0e74a1 copy 3",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "22EC9310-5CB8-42A5-A0CC-F5D6C375FBBB",
+    "do_objectID": "EF9D89C0-E8B4-483B-8F7A-0E5EB6001E5B",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "DC3DF59F-8146-437D-B3DB-EC5AB624452B",
-  "verticalSpacing": 0
+  }
 }

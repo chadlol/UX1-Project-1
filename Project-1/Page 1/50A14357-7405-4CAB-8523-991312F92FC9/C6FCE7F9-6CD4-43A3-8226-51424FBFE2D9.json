@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C6FCE7F9-6CD4-43A3-8226-51424FBFE2D9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "06CC77EE-6C27-4970-A654-4C249164B648",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8A993497-5F59-4D8A-847E-5B89E431C402",
+    "height": 344,
+    "width": 300,
+    "x": 38,
+    "y": 57
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "organism / forgotten password screen",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7A4E3BA6-CCAF-46D6-B5D5-E3FCC8280920",
+      "overrideName": "85FE2961-92C3-4125-AD78-A287B88240E7/7A35BDD0-46D8-4765-84AE-DD9FDAACD233_symbolID",
+      "value": "0655E185-ADAB-4608-B9E7-39FEE0DF7E94"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F5E89C1A-649C-4EEC-B784-CC9E23B8D8B3",
+      "overrideName": "85FE2961-92C3-4125-AD78-A287B88240E7/7A35BDD0-46D8-4765-84AE-DD9FDAACD233/94474337-C7B5-4996-ACC0-673D3BFDBBBE_stringValue",
+      "value": "johndoe@gmail.com"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5494B236-E4CD-4B9D-8B42-475AE4183706",
+      "overrideName": "85FE2961-92C3-4125-AD78-A287B88240E7/20D39D1B-F9F0-4276-8BF9-F213D67D2509_symbolID",
+      "value": "E85EBBA9-8F94-4B45-8A7E-DEF29EC559F4"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C952B4F6-6356-458C-AEE6-4E61DB3D92BA",
+      "overrideName": "85FE2961-92C3-4125-AD78-A287B88240E7/20D39D1B-F9F0-4276-8BF9-F213D67D2509/C8BF93C6-A8FC-4F31-B833-E623413FAD8D_stringValue",
+      "value": "Send Email"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "38F2FE89-5D6C-47A1-9820-2FCA8EA41883",
+      "overrideName": "85FE2961-92C3-4125-AD78-A287B88240E7/6B8C713F-0366-458C-BD31-BE213E0F173C/1F146101-FA7C-4898-BB2C-75040F3BB58A_stringValue",
+      "value": "johndoe@gmail.com"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3EBC5A78-E3FE-45C8-A21A-343F6C4F22CC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C6D2A66F-95D2-4B9E-A72A-F4BF09EE09AC",
+  "verticalSpacing": 0
+}
