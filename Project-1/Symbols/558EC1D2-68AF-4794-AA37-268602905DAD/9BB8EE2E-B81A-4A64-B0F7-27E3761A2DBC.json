@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9BB8EE2E-B81A-4A64-B0F7-27E3761A2DBC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4F94FE2E-603B-4EB1-849D-204D1AF75B32",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F507D163-8DA7-411E-B7B8-2E48999E4985",
+    "height": 60,
+    "width": 300,
+    "x": 0,
+    "y": 143
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "atom / new-textbox user copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3810B64B-18FE-4992-B1B2-BD39F8985994",
+      "overrideName": "7913BC3D-8944-4525-8C03-CAF8F146275F_stringValue",
+      "value": "Confirm Password"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "F64F1346-DCDE-469C-A4D8-99EE2A267E96",
+      "opacity": 0.4950009300595238
+    },
+    "do_objectID": "84D72645-6B49-4C89-BC38-DF72003E2FC8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "66CBFB60-6674-4B1F-AA39-6088C2744ECD",
+  "verticalSpacing": 0
+}

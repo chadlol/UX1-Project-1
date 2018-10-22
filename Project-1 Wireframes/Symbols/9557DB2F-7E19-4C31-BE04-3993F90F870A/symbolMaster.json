@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "1ABD9234-D583-4DC8-BD53-EBDD6A504442",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 503,
+  "clippingMaskMode": 0,
+  "do_objectID": "9557DB2F-7E19-4C31-BE04-3993F90F870A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C0A88DD3-9850-4463-9782-BF9EA60BD23D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3B242BF6-3E45-492A-88B6-9C811F582C79",
+    "height": 17,
+    "width": 130,
+    "x": 340,
+    "y": 32
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F2AD9D84-F325-4D78-B24A-70389A14754B",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "806730F7-8273-400C-881E-529D8F0F5505"
+    }
+  ],
+  "name": "atom / link white",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5E828D86-3330-4E06-B7D0-81FEE282BF61",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "51D57998-1BDE-4913-AD55-8C91BB450847",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "86C7F192-9E1A-4987-B458-0E2968FFBA4E",
+    "guides": [
+    ]
+  }
+}

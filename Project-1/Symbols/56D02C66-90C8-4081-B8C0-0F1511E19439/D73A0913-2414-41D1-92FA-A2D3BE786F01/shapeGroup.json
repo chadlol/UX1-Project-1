@@ -1,0 +1,82 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D73A0913-2414-41D1-92FA-A2D3BE786F01",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D16C5A3F-584D-43C8-9AD1-8FCF186AA441",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B7171525-F724-4815-95D4-439735907733",
+    "height": 75.93000000000002,
+    "width": 75.93,
+    "x": 112,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "F579C465-0838-4F59-AE94-A3E5B114B0B3"
+    },
+    {
+      "class": "shapePath",
+      "id": "B7698E3D-9BF2-4DBB-86CC-145726AA6F7F"
+    }
+  ],
+  "name": "Facebook",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "6FF36E63-89BC-4165-8CA1-325A394379AF",
+      "opacity": 0.8531668526785714
+    },
+    "do_objectID": "0298D56D-BD59-4E1E-935C-53399A9C120B",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

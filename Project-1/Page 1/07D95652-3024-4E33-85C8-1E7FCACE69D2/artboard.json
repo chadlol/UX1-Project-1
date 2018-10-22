@@ -51,8 +51,16 @@
   "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "group",
+      "id": "917D3997-88D1-4BB9-9E61-DDFFAB9B7FF1"
+    },
+    {
       "class": "symbolInstance",
       "id": "85CFBA1C-1AA1-4413-BBC9-72997D54EA85"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "895313EF-5DD3-400B-81A0-D24A4B61E0D3"
     }
   ],
   "name": "Password Retrieval Success",

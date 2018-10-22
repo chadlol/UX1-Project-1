@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E38F5C79-0E90-47D6-B82B-A495E0B9DFC5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 277,
+    "width": 300,
+    "x": 38,
+    "y": 100
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "organism / forgotten password screen",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7A4E3BA6-CCAF-46D6-B5D5-E3FCC8280920",
+      "overrideName": "85FE2961-92C3-4125-AD78-A287B88240E7/7A35BDD0-46D8-4765-84AE-DD9FDAACD233_symbolID",
+      "value": "0655E185-ADAB-4608-B9E7-39FEE0DF7E94"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F5E89C1A-649C-4EEC-B784-CC9E23B8D8B3",
+      "overrideName": "85FE2961-92C3-4125-AD78-A287B88240E7/7A35BDD0-46D8-4765-84AE-DD9FDAACD233/94474337-C7B5-4996-ACC0-673D3BFDBBBE_stringValue",
+      "value": "johndoe@gmail.com"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5494B236-E4CD-4B9D-8B42-475AE4183706",
+      "overrideName": "85FE2961-92C3-4125-AD78-A287B88240E7/20D39D1B-F9F0-4276-8BF9-F213D67D2509_symbolID",
+      "value": "E85EBBA9-8F94-4B45-8A7E-DEF29EC559F4"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C952B4F6-6356-458C-AEE6-4E61DB3D92BA",
+      "overrideName": "85FE2961-92C3-4125-AD78-A287B88240E7/20D39D1B-F9F0-4276-8BF9-F213D67D2509/C8BF93C6-A8FC-4F31-B833-E623413FAD8D_stringValue",
+      "value": "Send Email"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C6D2A66F-95D2-4B9E-A72A-F4BF09EE09AC",
+  "verticalSpacing": 0
+}

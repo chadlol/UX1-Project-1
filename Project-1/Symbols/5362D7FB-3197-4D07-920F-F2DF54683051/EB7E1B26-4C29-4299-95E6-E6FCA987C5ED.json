@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EB7E1B26-4C29-4299-95E6-E6FCA987C5ED",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1345D014-1609-4539-BEA3-92AC3C2D2C75",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "422ABCED-CEBC-4E86-8F2D-0CBBF2465EEC",
+    "height": 60,
+    "width": 150,
+    "x": 75,
+    "y": 148
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "atom / new-button light copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E8F701FE-6251-4CE3-9D63-29D2593E7A85",
+      "overrideName": "1F0A6E88-6CB8-4984-8B69-752D47712D2D_stringValue",
+      "value": "Back to Login"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F83923F4-26B4-46AF-88E6-C2D4E22DBA5E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EC7BE2CE-C262-4C59-A01E-B6F95E18DC98",
+  "verticalSpacing": 0
+}

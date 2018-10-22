@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3,
+  "changeIdentifier": 7,
   "clippingMaskMode": 0,
   "do_objectID": "56D02C66-90C8-4081-B8C0-0F1511E19439",
   "exportOptions": {
@@ -46,19 +46,19 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "5FAD831C-1370-4D45-981F-630CCF59C623"
+      "class": "shapeGroup",
+      "id": "D41F83AF-A498-4C94-BAF4-9A27B244D7D4"
     },
     {
-      "class": "symbolInstance",
-      "id": "355F4592-0E95-41AE-A989-504869B6FDF6"
+      "class": "shapeGroup",
+      "id": "D73A0913-2414-41D1-92FA-A2D3BE786F01"
     },
     {
-      "class": "symbolInstance",
-      "id": "35F27F88-9ED4-4851-B951-5EA1AC22EDC9"
+      "class": "shapeGroup",
+      "id": "FE6B9558-5EE6-4910-999D-F651360438F6"
     }
   ],
   "name": "molecule / social media group",

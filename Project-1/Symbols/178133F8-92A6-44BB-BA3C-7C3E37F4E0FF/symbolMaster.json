@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 9,
+  "changeIdentifier": 3479,
   "clippingMaskMode": 0,
   "do_objectID": "178133F8-92A6-44BB-BA3C-7C3E37F4E0FF",
   "exportOptions": {
@@ -46,27 +46,23 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "2313F0C0-B1A3-4C04-9192-8198CA49DF35"
+      "id": "4945BAB8-1159-413E-9946-8A3F337BFE4D"
     },
     {
       "class": "symbolInstance",
-      "id": "77043022-08F3-4DE2-92E1-B319FF0C596F"
+      "id": "9C7D9269-22F0-4EB3-94B0-635FA1A2F300"
     },
     {
       "class": "symbolInstance",
-      "id": "A6939DA6-D891-4A28-95A0-D717A4FEBF53"
+      "id": "EB0C5AB2-0958-4F6D-9DDF-14A2BA44BDF3"
     },
     {
       "class": "symbolInstance",
-      "id": "EC6F1143-A016-4D03-AD2C-766521C0485C"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "A6D886A0-8551-4279-893D-6EBF482B794B"
+      "id": "BCB90DCD-9012-4160-BF9A-0FAC3B1EA902"
     }
   ],
   "name": "molecule / login form - empty",

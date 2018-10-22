@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 124,
+  "changeIdentifier": 3772,
   "clippingMaskMode": 0,
   "do_objectID": "7C1C7662-D646-4DF8-8739-27BDE5A8CB1E",
   "exportOptions": {
@@ -23,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 395,
+    "height": 430,
     "width": 300,
-    "x": 570,
-    "y": 744
+    "x": 567,
+    "y": 709
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -46,12 +46,8 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "symbolInstance",
-      "id": "4E286075-90A7-4818-9F65-741C8B377B07"
-    },
     {
       "class": "symbolInstance",
       "id": "187BC4BC-32A0-40DA-961B-DEE55BD36404"
@@ -59,6 +55,10 @@
     {
       "class": "symbolInstance",
       "id": "EF13BF34-46A2-4D3E-827E-E5D0BB91DDDD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "30810D58-84B7-4252-86F9-27D6E9DBC9CB"
     }
   ],
   "name": "organism / login screen - empty",

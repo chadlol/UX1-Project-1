@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AED06205-61EF-4CDB-9B70-C41D892D8E4F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2B36A1BF-2EB1-4AEC-81CF-518F06854C27",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D6090115-872A-4405-92AD-80ACD71F6490",
+    "height": 21,
+    "width": 87,
+    "x": 0,
+    "y": 1495
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "styletile title copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D59D59C5-8B19-4D5D-8D5D-428D26C623AB",
+      "overrideName": "C87121E0-F235-4C28-BA86-B07B1FBAC33A_stringValue",
+      "value": "UI Elements"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EADA0E2B-0187-4F13-8AB8-71CE3C8140AF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7B844513-7524-4563-A52B-A2488047D59C",
+  "verticalSpacing": 0
+}

@@ -17,10 +17,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "BD736372-07CC-48F0-AA1F-364B4D1013EB",
-    "height": 433,
+    "height": 515,
     "width": 300,
     "x": 38,
-    "y": 100
+    "y": 57
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -91,6 +91,24 @@
       "_class": "overrideValue",
       "do_objectID": "B1D91B31-BDCA-4D0E-AEA8-87F05E386A29",
       "overrideName": "4600F096-4255-4B3E-A1EC-536D82C6A21F/2179AADF-6F81-49B1-9EE2-AF95EBDC2C4B/94474337-C7B5-4996-ACC0-673D3BFDBBBE_stringValue",
+      "value": "••••••••"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3D2A5EF9-0194-414F-B263-571A2503A9D6",
+      "overrideName": "4600F096-4255-4B3E-A1EC-536D82C6A21F/FDE137BE-4791-46AF-A9FF-B0A32639B0F5/1F146101-FA7C-4898-BB2C-75040F3BB58A_stringValue",
+      "value": "johndoe@gmail.com"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4498D5D1-D4AA-4E9C-813D-1B6EE9A80E17",
+      "overrideName": "4600F096-4255-4B3E-A1EC-536D82C6A21F/9BB8EE2E-B81A-4A64-B0F7-27E3761A2DBC/7913BC3D-8944-4525-8C03-CAF8F146275F_stringValue",
+      "value": "••••••••"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "49FDA343-1D79-490C-80D0-F167D66CBE36",
+      "overrideName": "4600F096-4255-4B3E-A1EC-536D82C6A21F/2873E62A-AC24-4F5D-B266-2E62ADB0E1D6/7913BC3D-8944-4525-8C03-CAF8F146275F_stringValue",
       "value": "••••••••"
     }
   ],

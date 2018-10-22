@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EFF8C43C-77BB-4560-B8D1-3C8C76920403",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "03CBDB98-FC11-4BA2-AA0B-FC7E339F935C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "ACB07F1B-DE93-41B0-88DA-8FD71A6B2F5C",
+    "height": 100,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "atom / messagebox",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C63F79D7-783F-4475-8452-B19580835173",
+      "overrideName": "7AF6E977-920D-4CD1-A383-BA6A1C659E7F_stringValue",
+      "value": "Email sent. Check your email for instructions to reset your password."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7DB7B1C2-8E27-4E7D-8DB8-546022A8112B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E998945E-61CE-40CE-BE99-96908D659ECD",
+  "verticalSpacing": 0
+}

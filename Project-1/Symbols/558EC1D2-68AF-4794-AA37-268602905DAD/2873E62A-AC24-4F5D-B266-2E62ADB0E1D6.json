@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2873E62A-AC24-4F5D-B266-2E62ADB0E1D6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ACFF4944-5E7F-41D5-8A6B-B681AA66A23C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E152F171-07CB-408E-91CB-DC15D1F8F5F4",
+    "height": 60,
+    "width": 300,
+    "x": 0,
+    "y": 71
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "atom / new-textbox user copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "9B541339-5DED-47A1-91AB-E3C8CA1C44DE",
+      "opacity": 0.4950009300595238
+    },
+    "do_objectID": "5035A310-F26C-4B42-B603-EBB5D5EF58F6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "66CBFB60-6674-4B1F-AA39-6088C2744ECD",
+  "verticalSpacing": 0
+}

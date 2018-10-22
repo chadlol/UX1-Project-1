@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4E3F85E3-B5A3-4FE1-A7A5-B9E837FBCC19",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D4A13A87-C268-4AC9-BEC4-A0F21257E27D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7FEC9FAE-AB53-4117-BC75-E8C3658268F9",
+    "height": 60,
+    "width": 150,
+    "x": 75,
+    "y": 319
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "atom / new-button light copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E8F701FE-6251-4CE3-9D63-29D2593E7A85",
+      "overrideName": "1F0A6E88-6CB8-4984-8B69-752D47712D2D_stringValue",
+      "value": "Register"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0D6D65A8-D282-4D35-9A06-3A10EF39DBD6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EC7BE2CE-C262-4C59-A01E-B6F95E18DC98",
+  "verticalSpacing": 0
+}

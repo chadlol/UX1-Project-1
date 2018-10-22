@@ -1,0 +1,95 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "097223CE-7962-4BA7-B072-89A8E3914A05",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 129,
+    "guides": [
+      20,
+      355,
+      445,
+      780
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "40B61BE3-2522-4DDA-A300-8A2269B5767E"
+    },
+    {
+      "class": "artboard",
+      "id": "D17F0ABA-F636-413C-8F85-BB41FA19FD59"
+    },
+    {
+      "class": "artboard",
+      "id": "07D95652-3024-4E33-85C8-1E7FCACE69D2"
+    },
+    {
+      "class": "artboard",
+      "id": "87C7CFBB-92C8-4E4C-9F95-9041FBCC5D62"
+    },
+    {
+      "class": "artboard",
+      "id": "9C336708-E47F-4FAD-B403-2907CDC6B7CF"
+    },
+    {
+      "class": "artboard",
+      "id": "C2CAC6D6-B892-439F-8269-64D52A96ABA5"
+    },
+    {
+      "class": "artboard",
+      "id": "006B9B66-B63F-496A-A6FA-389E058FF69F"
+    },
+    {
+      "class": "artboard",
+      "id": "A3CDEFA0-7205-4646-9C8B-4703B7154C18"
+    }
+  ],
+  "name": "Page 1",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

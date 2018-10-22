@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 2483,
+  "changeIdentifier": 3754,
   "clippingMaskMode": 0,
   "do_objectID": "5362D7FB-3197-4D07-920F-F2DF54683051",
   "exportOptions": {
@@ -26,13 +26,13 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "A235D58F-9F50-44E9-B503-4813815B92D9",
-    "height": 160,
+    "height": 208,
     "width": 300,
     "x": 1320,
     "y": 1734
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -58,7 +58,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "11026905-E18A-4B28-9C62-77DA1D5B03FB"
+      "id": "EB7E1B26-4C29-4299-95E6-E6FCA987C5ED"
     }
   ],
   "name": "molecule / forgotten password success",

@@ -20,7 +20,7 @@
     "height": 40,
     "width": 217,
     "x": 0,
-    "y": 240
+    "y": 267
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -47,6 +47,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.4946521577380952
+    },
     "do_objectID": "56599484-48D9-47C1-B06B-52C35CFD0DEB",
     "endMarkerType": 0,
     "miterLimit": 10,

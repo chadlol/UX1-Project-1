@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4945BAB8-1159-413E-9946-8A3F337BFE4D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2921DF2D-01E0-4C47-ACE5-883F9D7CC912",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "22764675-EB8E-4C2F-A2A9-2DCD0F39F133",
+    "height": 60,
+    "width": 140,
+    "x": -1,
+    "y": 137
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "atom / new-button light",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "37E5540C-5AEE-4BD7-8657-48DB346D832C",
+      "overrideName": "3E8022FA-2AE1-421B-A085-ABCB119E66C4_stringValue",
+      "value": "Login"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "40C9599F-9567-4E42-BA70-938BBB4DD550",
+      "opacity": 0.4950009300595238
+    },
+    "do_objectID": "2E9A78A2-1E6C-4EC9-B3F2-4BBE9A454EB3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BDA6709A-EA50-4262-A4F0-86E315163754",
+  "verticalSpacing": 0
+}

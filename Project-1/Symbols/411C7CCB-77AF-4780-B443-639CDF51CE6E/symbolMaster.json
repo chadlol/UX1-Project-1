@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 867,
+  "changeIdentifier": 1905,
   "clippingMaskMode": 0,
   "do_objectID": "411C7CCB-77AF-4780-B443-639CDF51CE6E",
   "exportOptions": {
@@ -26,7 +26,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "93BE2F7E-5B1E-48E3-A52D-4D6CCFF26C65",
-    "height": 184,
+    "height": 208,
     "width": 300,
     "x": 970,
     "y": 1734
@@ -54,15 +54,15 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "20D39D1B-F9F0-4276-8BF9-F213D67D2509"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "7A35BDD0-46D8-4765-84AE-DD9FDAACD233"
-    },
-    {
-      "class": "symbolInstance",
       "id": "EC986BBA-707E-4A83-A475-3A06C0648ACC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6B8C713F-0366-458C-BD31-BE213E0F173C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "27B94D45-6A06-4B34-B037-B848F795B93E"
     }
   ],
   "name": "molecule / forgotten password form",

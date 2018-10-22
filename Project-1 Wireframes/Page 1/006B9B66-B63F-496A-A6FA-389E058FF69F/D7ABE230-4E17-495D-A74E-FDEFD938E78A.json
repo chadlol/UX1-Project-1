@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D7ABE230-4E17-495D-A74E-FDEFD938E78A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A3E16A02-7AC7-4E8E-A6DB-4D9DE29F2BD9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2A290ADE-8FBB-4A03-B9BE-BB451E5A97D7",
+    "height": 60,
+    "width": 175,
+    "x": 405,
+    "y": 1665
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "atom / new-button light copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FF8FB1FF-9F84-4BA3-B7BA-112EACA27199",
+      "overrideName": "1F0A6E88-6CB8-4984-8B69-752D47712D2D_stringValue",
+      "value": "Button Dark"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "24FD7B9E-F489-4676-AC65-FFBD48405B71",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EC7BE2CE-C262-4C59-A01E-B6F95E18DC98",
+  "verticalSpacing": 0
+}

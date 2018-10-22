@@ -1,0 +1,175 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "21843DAC-7885-49CB-86DF-1092179EA241",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -167,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolMaster",
+      "id": "3E4CFD32-3DFC-4A8E-9AFF-7A25DF676260"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "335CBD4D-E62D-425D-BF5A-38E5FAB2DA22"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "BA4F2AA6-BACC-4D46-B87D-6A548DCCC6BD"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "9557DB2F-7E19-4C31-BE04-3993F90F870A"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "16851DCB-2795-49D7-AA67-CA6DF4EC51C4"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "3340C632-CB3D-48DC-B5B6-31C84FEC7AA3"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "23E2BC3A-1D84-41A5-A346-6ECBB37D9236"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "2E51DDB4-6D87-4D65-A799-7DD4F90CE68C"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "D1D1C1D4-F6DA-459E-8A8A-B8511F352EFC"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "56D02C66-90C8-4081-B8C0-0F1511E19439"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "178133F8-92A6-44BB-BA3C-7C3E37F4E0FF"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "CF3C8FC1-08DC-4932-AFFC-4C17812624BD"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "7C1C7662-D646-4DF8-8739-27BDE5A8CB1E"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "824137C9-4D70-4F51-ABF4-7C571B8A7D2B"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "A73EA2BC-BB59-4139-9094-B3EED97F8E01"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "558EC1D2-68AF-4794-AA37-268602905DAD"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "411C7CCB-77AF-4780-B443-639CDF51CE6E"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "5362D7FB-3197-4D07-920F-F2DF54683051"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "4B034880-45E0-4162-B348-E538B5FEA7C6"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "35D7F054-E499-4845-91F1-076B4CA6E671"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "D1B89D6C-26BB-4C4A-914D-01DF7840E268"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "C51763E4-1478-4050-9ADB-60F74F1C6094"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "93996ACD-ABDF-4CE4-9FBC-668781F0CC17"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "E68F2F0C-35C5-4DC0-9C6E-D97494FF1DDE"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "6ABADE8F-A3DA-4831-A0CD-DC25E2431B76"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "234FFE0E-08CF-45A5-9F34-ECE37B2C1CFF"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "DD2517DF-0869-4E00-82C8-7E76FCAF0818"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "E4ACE965-2517-436A-B635-F317E8C8A283"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "B7E6D0F7-F26A-438B-96C5-6A4B4A656789"
+    }
+  ],
+  "name": "Symbols",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -274,
+    "guides": [
+    ]
+  }
+}

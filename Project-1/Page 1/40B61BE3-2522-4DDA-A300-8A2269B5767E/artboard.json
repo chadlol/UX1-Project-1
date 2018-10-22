@@ -51,8 +51,16 @@
   "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "group",
+      "id": "61BAD7DE-8B50-41FF-AE4B-12F976A7F890"
+    },
+    {
       "class": "symbolInstance",
       "id": "6B659529-1AA7-4665-BE98-EF055D4C9EE0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4809F0A1-8F32-4633-A899-669402396244"
     }
   ],
   "name": "Registration Screen - Empty",

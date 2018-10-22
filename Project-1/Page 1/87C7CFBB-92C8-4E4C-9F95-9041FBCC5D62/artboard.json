@@ -51,8 +51,16 @@
   "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "group",
+      "id": "43BDA45A-2CCC-462E-9873-3AF0D1BBA683"
+    },
+    {
       "class": "symbolInstance",
       "id": "B7CB70C8-B9B7-420B-878E-7AC6465FC348"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ADA9FE10-C8CA-488B-BEAF-9A8D82A2A03E"
     }
   ],
   "name": "Registration Screen - Filled",
