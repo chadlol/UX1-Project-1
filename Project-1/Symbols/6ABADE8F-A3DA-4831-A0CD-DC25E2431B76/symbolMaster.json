@@ -1,8 +1,16 @@
 {
-  "_class": "page",
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
   "booleanOperation": -1,
+  "changeIdentifier": 36,
   "clippingMaskMode": 0,
-  "do_objectID": "097223CE-7962-4BA7-B072-89A8E3914A05",
+  "do_objectID": "6ABADE8F-A3DA-4831-A0CD-DC25E2431B76",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,66 +23,47 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
+    "height": 21,
+    "width": 87,
+    "x": 2190,
     "y": 0
   },
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": 129,
+    "base": 0,
     "guides": [
-      20,
-      355,
-      445,
-      780
     ]
   },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "40B61BE3-2522-4DDA-A300-8A2269B5767E"
+      "class": "rectangle",
+      "id": "E7D08E83-57DF-44F1-9DD1-EAB606E1B5B8"
     },
     {
-      "class": "artboard",
-      "id": "D17F0ABA-F636-413C-8F85-BB41FA19FD59"
-    },
-    {
-      "class": "artboard",
-      "id": "07D95652-3024-4E33-85C8-1E7FCACE69D2"
-    },
-    {
-      "class": "artboard",
-      "id": "87C7CFBB-92C8-4E4C-9F95-9041FBCC5D62"
-    },
-    {
-      "class": "artboard",
-      "id": "9C336708-E47F-4FAD-B403-2907CDC6B7CF"
-    },
-    {
-      "class": "artboard",
-      "id": "C2CAC6D6-B892-439F-8269-64D52A96ABA5"
-    },
-    {
-      "class": "artboard",
-      "id": "006B9B66-B63F-496A-A6FA-389E058FF69F"
+      "class": "text",
+      "id": "C87121E0-F235-4C28-BA86-B07B1FBAC33A"
     }
   ],
-  "name": "Page 1",
+  "name": "styletile title",
   "nameIsFixed": false,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endMarkerType": 0,
@@ -82,6 +71,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "7B844513-7524-4563-A52B-A2488047D59C",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

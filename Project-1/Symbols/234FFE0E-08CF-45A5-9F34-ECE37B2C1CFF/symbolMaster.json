@@ -1,8 +1,16 @@
 {
-  "_class": "page",
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
   "booleanOperation": -1,
+  "changeIdentifier": 74,
   "clippingMaskMode": 0,
-  "do_objectID": "097223CE-7962-4BA7-B072-89A8E3914A05",
+  "do_objectID": "234FFE0E-08CF-45A5-9F34-ECE37B2C1CFF",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,66 +23,51 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
+    "height": 60,
+    "width": 350,
+    "x": 2377,
     "y": 0
   },
-  "hasClickThrough": true,
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": 129,
+    "base": 0,
     "guides": [
-      20,
-      355,
-      445,
-      780
     ]
   },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "40B61BE3-2522-4DDA-A300-8A2269B5767E"
+      "class": "rectangle",
+      "id": "E0146E38-EAE2-4A43-805E-6FED0FA565BB"
     },
     {
-      "class": "artboard",
-      "id": "D17F0ABA-F636-413C-8F85-BB41FA19FD59"
+      "class": "text",
+      "id": "1F146101-FA7C-4898-BB2C-75040F3BB58A"
     },
     {
-      "class": "artboard",
-      "id": "07D95652-3024-4E33-85C8-1E7FCACE69D2"
-    },
-    {
-      "class": "artboard",
-      "id": "87C7CFBB-92C8-4E4C-9F95-9041FBCC5D62"
-    },
-    {
-      "class": "artboard",
-      "id": "9C336708-E47F-4FAD-B403-2907CDC6B7CF"
-    },
-    {
-      "class": "artboard",
-      "id": "C2CAC6D6-B892-439F-8269-64D52A96ABA5"
-    },
-    {
-      "class": "artboard",
-      "id": "006B9B66-B63F-496A-A6FA-389E058FF69F"
+      "class": "group",
+      "id": "53B22979-9132-4AD7-AFA3-629433D74A11"
     }
   ],
-  "name": "Page 1",
-  "nameIsFixed": false,
+  "name": "atom / new-textbox user",
+  "nameIsFixed": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endMarkerType": 0,
@@ -82,6 +75,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "C166778E-AA04-43C7-9193-469FA85AF8C5",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
