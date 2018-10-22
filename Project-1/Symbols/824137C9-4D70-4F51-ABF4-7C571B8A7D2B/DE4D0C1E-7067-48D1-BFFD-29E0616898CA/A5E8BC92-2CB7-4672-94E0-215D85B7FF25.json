@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "4809F0A1-8F32-4633-A899-669402396244",
+  "do_objectID": "A5E8BC92-2CB7-4672-94E0-215D85B7FF25",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
-    "width": 40,
-    "x": 10,
-    "y": 25
+    "height": 60,
+    "width": 300,
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,9 +28,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "atom / checkbox - back",
+  "name": "atom / new-textbox user copy 3",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "1F146101-FA7C-4898-BB2C-75040F3BB58A_stringValue",
+      "value": "johndoe@gmail.com"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -39,11 +44,16 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.8502836681547619
+    },
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "EB3062FC-FDAB-4F9B-80C3-6BE15F134090",
+  "symbolID": "C166778E-AA04-43C7-9193-469FA85AF8C5",
   "verticalSpacing": 0
 }

@@ -70,10 +70,6 @@
     },
     {
       "class": "symbolMaster",
-      "id": "CF3C8FC1-08DC-4932-AFFC-4C17812624BD"
-    },
-    {
-      "class": "symbolMaster",
       "id": "7C1C7662-D646-4DF8-8739-27BDE5A8CB1E"
     },
     {
@@ -99,6 +95,10 @@
     {
       "class": "symbolMaster",
       "id": "4B034880-45E0-4162-B348-E538B5FEA7C6"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "8D4CB5CD-1813-46AF-AFDD-460B205A537A"
     },
     {
       "class": "symbolMaster",

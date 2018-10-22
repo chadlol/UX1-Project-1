@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3479,
+  "changeIdentifier": 3597,
   "clippingMaskMode": 0,
   "do_objectID": "178133F8-92A6-44BB-BA3C-7C3E37F4E0FF",
   "exportOptions": {
@@ -29,7 +29,7 @@
     "y": 215
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -65,7 +65,7 @@
       "id": "BCB90DCD-9012-4160-BF9A-0FAC3B1EA902"
     }
   ],
-  "name": "molecule / login form - empty",
+  "name": "molecule / login form",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

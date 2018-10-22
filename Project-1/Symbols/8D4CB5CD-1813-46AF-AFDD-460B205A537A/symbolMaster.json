@@ -4,17 +4,17 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "8C43FD3A-1E13-4186-A4C5-F92901D86691",
+    "do_objectID": "D682E59B-152B-45DC-B053-64CDD7E9E61F",
     "green": 1,
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 337,
+  "changeIdentifier": 1296,
   "clippingMaskMode": 0,
-  "do_objectID": "CF3C8FC1-08DC-4932-AFFC-4C17812624BD",
+  "do_objectID": "8D4CB5CD-1813-46AF-AFDD-460B205A537A",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "FAFE4254-1AEC-499A-AD2D-A90BBAEE674C",
+    "do_objectID": "48B7B3BD-E6B6-471A-B74B-8DFA53366716",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -25,11 +25,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "02F7FCC0-F753-4264-91BE-E16293BE2B6F",
-    "height": 197,
+    "do_objectID": "2A84125A-8A5B-4E16-BABB-0F3A4E244C62",
+    "height": 515,
     "width": 300,
-    "x": 570,
-    "y": 447
+    "x": 240,
+    "y": 2179
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -37,7 +37,7 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "481C3A3A-09CE-4574-8208-065FFBD14739",
+    "do_objectID": "664C6D1F-53D5-4F48-877E-0189F19BCF3E",
     "guides": [
     ]
   },
@@ -54,22 +54,14 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "2B0B69FE-C527-431F-954E-B94A31B87DF2"
+      "id": "3455404E-47F7-4E21-8417-AD04C1861A3B"
     },
     {
       "class": "symbolInstance",
-      "id": "6A3E9A09-1AE2-4F92-896C-0846C060F26C"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "CA36B6B4-C646-4A2B-A7EA-1FAE7C97A451"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "139401E2-B2FB-4F61-8C1E-614D397EFBDA"
+      "id": "F4E0EE8C-4CD6-4EA2-842B-66C39C1C9237"
     }
   ],
-  "name": "molecule / login form - filled",
+  "name": "organism / registration screen filled",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -78,17 +70,17 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "CE07F5B0-A4F2-4EF2-80A7-8495FB410981",
+    "do_objectID": "D950EF89-E5D9-4269-8043-651A82686195",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "910E0316-6695-461A-B7CB-8C1F078C963B",
+  "symbolID": "CC5EE3CA-37C1-46BA-8E1B-49C615F99AA4",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "76F57F2D-7780-49D5-B5A7-290DA54A2848",
+    "do_objectID": "73C76D48-AF8F-4013-86B3-D31ED58FB0E4",
     "guides": [
     ]
   }

@@ -2,10 +2,9 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F3DC969A-1F54-4BF5-85E3-B5FEF8B1523C",
+  "do_objectID": "1369328F-A232-4EF5-A675-9945697E249F",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "74847ADB-72CF-4B7B-B762-2E1A08DF13CC",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "482BDC34-ED32-4586-B3C8-0BAA3EBAACAA",
-    "height": 197,
-    "width": 300,
-    "x": 0,
-    "y": 134
+    "height": 60,
+    "width": 150,
+    "x": 151,
+    "y": 137
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,9 +28,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "molecule / login form copy",
+  "name": "atom / new-button light copy 3",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "1F0A6E88-6CB8-4984-8B69-752D47712D2D_stringValue",
+      "value": "Register"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -41,12 +44,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "C1851D35-0E6C-4F26-A962-A8DB8BA12EC8",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "910E0316-6695-461A-B7CB-8C1F078C963B",
+  "symbolID": "EC7BE2CE-C262-4C59-A01E-B6F95E18DC98",
   "verticalSpacing": 0
 }

@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3455404E-47F7-4E21-8417-AD04C1861A3B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "002002C3-09F5-4B51-A68D-342ABDC7DC14",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E90E17BD-0829-46E7-96CA-018415CD5A56",
+    "height": 379,
+    "width": 300,
+    "x": -1,
+    "y": 136
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule / registration form",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5D6EAAE8-3A31-4FEF-9B64-2AC5D71C2488",
+      "overrideName": "FDE137BE-4791-46AF-A9FF-B0A32639B0F5/1F146101-FA7C-4898-BB2C-75040F3BB58A_stringValue",
+      "value": "jonedoe@gmail.com"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "664A7D47-3DDF-4095-B75F-89F65752433F",
+      "overrideName": "9BB8EE2E-B81A-4A64-B0F7-27E3761A2DBC/7913BC3D-8944-4525-8C03-CAF8F146275F_stringValue",
+      "value": "••••••••"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F7425C86-806A-42A5-97C3-73765617FA8A",
+      "overrideName": "2873E62A-AC24-4F5D-B266-2E62ADB0E1D6/7913BC3D-8944-4525-8C03-CAF8F146275F_stringValue",
+      "value": "••••••••"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "A839E0BE-8CD1-48E9-903D-A9C408AC6E36",
+      "opacity": 0.8799999952316284
+    },
+    "do_objectID": "C0F44DE5-F5EA-4F09-A0D6-37CD9A35FBF3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B8841A34-324C-461B-A5BD-7AD9E7CB686B",
+  "verticalSpacing": 0
+}
