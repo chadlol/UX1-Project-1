@@ -71,18 +71,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "contextSettings": {
-      "_class": "graphicsContextSettings",
-      "blendMode": 0,
-      "opacity": 0.75
-    },
     "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
         "color": {
           "_class": "color",
-          "alpha": 0.75,
+          "alpha": 1,
           "blue": 0.3294117647058823,
           "green": 0.2313725490196078,
           "red": 0.07843137254901962

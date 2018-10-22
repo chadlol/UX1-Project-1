@@ -1,0 +1,89 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A5C466B8-26ED-4530-9A6E-1A07A4D05B28",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 22.89599999999996,
+    "width": 36.6330845527771,
+    "x": 407.755,
+    "y": 29.721
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "BCA7228D-39B8-4B28-8810-46ADB5F29931"
+    },
+    {
+      "class": "shapePath",
+      "id": "F20989A9-7FE9-48F5-ABA2-BD374844E505"
+    },
+    {
+      "class": "shapePath",
+      "id": "09368418-0D60-4FE1-8B70-472F18EFE98C"
+    },
+    {
+      "class": "shapePath",
+      "id": "666E4FB5-1E69-4FF9-AD96-2FE7A683370A"
+    },
+    {
+      "class": "shapePath",
+      "id": "907E96D6-AB18-4AD8-A0DA-8E0D4AD5E460"
+    },
+    {
+      "class": "shapePath",
+      "id": "5A973974-CCAF-4AC1-A780-A8E771BF9CA5"
+    }
+  ],
+  "name": "Behance",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.976,
+          "green": 0.439,
+          "red": 0.102
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

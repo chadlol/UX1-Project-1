@@ -1,0 +1,103 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "0BFD9D08-C6E5-4F7A-AFA6-62B71180D513",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B79D321E-6CFC-42C8-9174-990058DC3BEE",
+    "height": 77,
+    "width": 978,
+    "x": 140,
+    "y": 467
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "67B2C6F4-0C4F-4978-8D6A-95DC72600F16"
+    },
+    {
+      "class": "shapePath",
+      "id": "9632CE59-D78A-4D08-AC4A-B2782099C9F7"
+    },
+    {
+      "class": "shapePath",
+      "id": "84AAD299-1962-484E-9566-D13D47D763DE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0EC97FC9-8987-448E-923B-29C494E102B9"
+    },
+    {
+      "class": "shapePath",
+      "id": "19449536-A7E9-46A9-A221-62DDD2AD35AE"
+    },
+    {
+      "class": "shapePath",
+      "id": "35E7643A-0669-44B9-A206-515F2A394AAF"
+    },
+    {
+      "class": "shapePath",
+      "id": "C11C1EBB-FA60-415D-A627-5E35DE7A7159"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E8AD6050-13B4-48B0-B0CA-B0F62EE33CD3"
+    },
+    {
+      "class": "shapePath",
+      "id": "F6E0B0B6-70E2-4186-B3E1-C6B0CD14927E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3B10E9E7-0296-4071-B59E-A3EE9D794A07"
+    },
+    {
+      "class": "shapePath",
+      "id": "B501B25F-7F3E-4F92-B53C-29D6A3DD7F6E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F508C329-0F83-477F-9176-73E3773F327A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "929FA462-1BEC-4A07-90E0-09E0AFA37873"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E3344DFE-20BD-4DA6-A0FF-C44A5D93F1AD"
+    }
+  ],
+  "name": "FULL-COLOR",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

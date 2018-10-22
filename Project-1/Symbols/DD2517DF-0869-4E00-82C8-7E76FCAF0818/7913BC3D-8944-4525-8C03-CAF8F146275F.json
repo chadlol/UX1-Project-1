@@ -73,12 +73,6 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "contextSettings": {
-      "_class": "graphicsContextSettings",
-      "blendMode": 0,
-      "do_objectID": "D70B76B7-509E-4DD4-9F35-3CBFA344AF6C",
-      "opacity": 0.75
-    },
     "do_objectID": "9EA75E95-9DEA-493E-B403-E2734579D549",
     "endMarkerType": 0,
     "fills": [
@@ -86,7 +80,7 @@
         "_class": "fill",
         "color": {
           "_class": "color",
-          "alpha": 0.75,
+          "alpha": 1,
           "blue": 0.3294117647058823,
           "green": 0.2313725490196078,
           "red": 0.07843137254901962
